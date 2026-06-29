@@ -1,0 +1,1054 @@
+canonical_identifier: bkk:krp/KR3em026/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3em026/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 咽喉秘集
+  identifiers:
+    krp: KR3em026
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em026.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3em026_000-jc.yaml, hash: 'sha256:53430c1480200db05baa8c360b91338a4e62e74c6d4c06ffbe065dddda0da9f2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em026_000-jc.markers.yaml, hash: 'sha256:16b498b85d0181d41718df1e21bceda579176af37db175f5542563c158288a51'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 1460
+  label: 總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d2d4
+    span:
+    - body
+    - 332
+    - 516
+  label: 喉症分經
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d2d5
+    span:
+    - body
+    - 516
+    - 1250
+  label: 咽喉治法要論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d2d6
+    span:
+    - body
+    - 1250
+    - 1294
+  label: 四絕症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d2d7
+    span:
+    - body
+    - 1294
+    - 1362
+  label: 十六絕形
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d2d8
+    span:
+    - body
+    - 1362
+    - 1460
+  label: 針刺穴位
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3.h1s1
+    span:
+    - body
+    - 1460
+    - 2696
+  label: 吳氏咽喉二十四大症歌訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d4
+    span:
+    - body
+    - 1477
+    - 1549
+  label: 喉痹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d5
+    span:
+    - body
+    - 1549
+    - 1595
+  label: 喉閉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d6
+    span:
+    - body
+    - 1595
+    - 1648
+  label: 纏喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d7
+    span:
+    - body
+    - 1648
+    - 1701
+  label: 嗆喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d8
+    span:
+    - body
+    - 1701
+    - 1764
+  label: 啞喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d9
+    span:
+    - body
+    - 1764
+    - 1814
+  label: 弄舌喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d10
+    span:
+    - body
+    - 1814
+    - 1864
+  label: 爛喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d11
+    span:
+    - body
+    - 1864
+    - 1931
+  label: 單乳蛾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d12
+    span:
+    - body
+    - 1931
+    - 2012
+  label: 喉癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d13
+    span:
+    - body
+    - 2012
+    - 2050
+  label: 牙疔
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d14
+    span:
+    - body
+    - 2050
+    - 2100
+  label: 牙宣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d15
+    span:
+    - body
+    - 2100
+    - 2148
+  label: 木舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d16
+    span:
+    - body
+    - 2148
+    - 2196
+  label: 重舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d17
+    span:
+    - body
+    - 2196
+    - 2231
+  label: 重齶
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d18
+    span:
+    - body
+    - 2231
+    - 2295
+  label: 走馬牙疳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d19
+    span:
+    - body
+    - 2295
+    - 2340
+  label: 痧痘口疳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d20
+    span:
+    - body
+    - 2340
+    - 2403
+  label: 雙乳蛾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d21
+    span:
+    - body
+    - 2403
+    - 2457
+  label: 螞蝗疔
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d22
+    span:
+    - body
+    - 2457
+    - 2507
+  label: 連珠風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d23
+    span:
+    - body
+    - 2507
+    - 2589
+  label: 陰虛喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d24
+    span:
+    - body
+    - 2589
+    - 2641
+  label: 楊梅喉癬
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d3d25
+    span:
+    - body
+    - 2641
+    - 2696
+  label: 咬牙風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4.h1s1
+    span:
+    - body
+    - 2696
+    - 10026
+  label: 張氏咽喉七十二症治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d2
+    span:
+    - body
+    - 2705
+    - 2878
+  label: 簾珠喉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d3
+    span:
+    - body
+    - 2878
+    - 3047
+  label: 嗆食啞喉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d4
+    span:
+    - body
+    - 3047
+    - 3158
+  label: 內外腫喉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d5
+    span:
+    - body
+    - 3158
+    - 3227
+  label: 風熱喉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d6
+    span:
+    - body
+    - 3227
+    - 3379
+  label: 紫色虛喉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d7
+    span:
+    - body
+    - 3379
+    - 3558
+  label: 喉癬
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d8
+    span:
+    - body
+    - 3558
+    - 3725
+  label: 喉疳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d9
+    span:
+    - body
+    - 3725
+    - 3803
+  label: 飛揚喉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d10
+    span:
+    - body
+    - 3803
+    - 3935
+  label: 虛啞喉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d11
+    span:
+    - body
+    - 3935
+    - 4058
+  label: 聲啞喉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d12
+    span:
+    - body
+    - 4058
+    - 4162
+  label: 爛痧喉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d13
+    span:
+    - body
+    - 4162
+    - 4255
+  label: 雙乳蛾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d14
+    span:
+    - body
+    - 4255
+    - 4354
+  label: 單乳蛾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d15
+    span:
+    - body
+    - 4354
+    - 4515
+  label: 爛乳蛾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d16
+    span:
+    - body
+    - 4515
+    - 4588
+  label: 風寒蛾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d17
+    span:
+    - body
+    - 4588
+    - 4637
+  label: 白色乳蛾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d18
+    span:
+    - body
+    - 4637
+    - 4777
+  label: 石蛾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d19
+    span:
+    - body
+    - 4777
+    - 4824
+  label: 伏寒乳蛾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d20
+    span:
+    - body
+    - 4824
+    - 4983
+  label: 爛喉痹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d21
+    span:
+    - body
+    - 4983
+    - 5065
+  label: 白色喉痹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d22
+    span:
+    - body
+    - 5065
+    - 5171
+  label: 寒伏喉痹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d23
+    span:
+    - body
+    - 5171
+    - 5260
+  label: 雙喉痹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d24
+    span:
+    - body
+    - 5260
+    - 5276
+  label: 單喉痹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d25
+    span:
+    - body
+    - 5276
+    - 5464
+  label: 淡紅喉痹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d26
+    span:
+    - body
+    - 5464
+    - 5590
+  label: 走馬喉痹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d27
+    span:
+    - body
+    - 5590
+    - 5751
+  label: 內腫鎖喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d28
+    span:
+    - body
+    - 5751
+    - 5909
+  label: 纏喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d29
+    span:
+    - body
+    - 5909
+    - 6012
+  label: 匝舌喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d30
+    span:
+    - body
+    - 6012
+    - 6123
+  label: 虛爛喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d31
+    span:
+    - body
+    - 6123
+    - 6245
+  label: 白色喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d32
+    span:
+    - body
+    - 6245
+    - 6341
+  label: 酒毒喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d33
+    span:
+    - body
+    - 6341
+    - 6499
+  label: 勞碌喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d34
+    span:
+    - body
+    - 6499
+    - 6567
+  label: 酒寒喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d35
+    span:
+    - body
+    - 6567
+    - 6667
+  label: 腫爛喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d36
+    span:
+    - body
+    - 6667
+    - 6748
+  label: 肺寒喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d37
+    span:
+    - body
+    - 6748
+    - 6846
+  label: 辛苦喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d38
+    span:
+    - body
+    - 6846
+    - 6919
+  label: 淡紅喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d39
+    span:
+    - body
+    - 6919
+    - 6995
+  label: 伏寒喉癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d40
+    span:
+    - body
+    - 6995
+    - 7122
+  label: 腫爛喉癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d41
+    span:
+    - body
+    - 7122
+    - 7215
+  label: 淡白喉癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d42
+    span:
+    - body
+    - 7215
+    - 7319
+  label: 大紅喉癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d43
+    span:
+    - body
+    - 7319
+    - 7428
+  label: 聲啞喉癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d44
+    span:
+    - body
+    - 7428
+    - 7497
+  label: 單喉癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d45
+    span:
+    - body
+    - 7497
+    - 7593
+  label: 外症喉癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d46
+    span:
+    - body
+    - 7593
+    - 7683
+  label: 兜腮喉癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d47
+    span:
+    - body
+    - 7683
+    - 7767
+  label: 舌上癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d48
+    span:
+    - body
+    - 7767
+    - 7848
+  label: 舌下癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d49
+    span:
+    - body
+    - 7848
+    - 7948
+  label: 上齶癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d50
+    span:
+    - body
+    - 7948
+    - 8054
+  label: 木舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d51
+    span:
+    - body
+    - 8054
+    - 8138
+  label: 白腫舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d52
+    span:
+    - body
+    - 8138
+    - 8212
+  label: 爛邊舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d53
+    span:
+    - body
+    - 8212
+    - 8300
+  label: 紅點紫舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d54
+    span:
+    - body
+    - 8300
+    - 8400
+  label: 純紫舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d55
+    span:
+    - body
+    - 8400
+    - 8510
+  label: 座舌蓮花
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d56
+    span:
+    - body
+    - 8510
+    - 8598
+  label: 重舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d57
+    span:
+    - body
+    - 8598
+    - 8645
+  label: 蓮花舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d58
+    span:
+    - body
+    - 8645
+    - 8721
+  label: 焦黃舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d59
+    span:
+    - body
+    - 8721
+    - 8780
+  label: 舌上珠
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d60
+    span:
+    - body
+    - 8780
+    - 8830
+  label: 舌下珠
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d61
+    span:
+    - body
+    - 8830
+    - 8901
+  label: 左雀舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d62
+    span:
+    - body
+    - 8901
+    - 8937
+  label: 右雀舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d63
+    span:
+    - body
+    - 8937
+    - 9047
+  label: 胃火小舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d64
+    span:
+    - body
+    - 9047
+    - 9157
+  label: 胃毒小舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d65
+    span:
+    - body
+    - 9157
+    - 9252
+  label: 積熱小舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d66
+    span:
+    - body
+    - 9252
+    - 9328
+  label: 懸旗小舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d67
+    span:
+    - body
+    - 9328
+    - 9466
+  label: 純白小舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d68
+    span:
+    - body
+    - 9466
+    - 9566
+  label: 松子喉疔
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d69
+    span:
+    - body
+    - 9566
+    - 9728
+  label: 走馬牙疳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d70
+    span:
+    - body
+    - 9728
+    - 9803
+  label: 喉單
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d71
+    span:
+    - body
+    - 9803
+    - 9855
+  label: 喉菌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d72
+    span:
+    - body
+    - 9855
+    - 9930
+  label: 喉瘤
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d4d73
+    span:
+    - body
+    - 9930
+    - 10026
+  label: 陰瘡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em026_jc_000-d5.h1s1
+    span:
+    - body
+    - 10026
+    - 12077
+  label: 附方
+  type: section
+  level: 1
+hash: sha256:e14a376d8fbe5a80283fa9febe8753d54c4bbcd68090596898655da53e7793d7
